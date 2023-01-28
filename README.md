@@ -1,2 +1,1 @@
-"# ContosoRetailDW" 
-Power BI Dashboard
+#Power BI Dashboard
